@@ -3,6 +3,7 @@ public class Variables{
 
         // Declarations
         int a = 1;
+        String static teste "Teste";
         float b = 666;
         boolean c = true;
         char d = 'D';
@@ -16,6 +17,6 @@ public class Variables{
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-
+    
     }
 }

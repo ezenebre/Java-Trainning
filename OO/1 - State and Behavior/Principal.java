@@ -25,7 +25,7 @@ public class Principal{
 
         // Peugeot output
         String peugeotMarca = peugeot.getMarca();
-        String peugeoModelo = peugeot.getModelo();
+        String peugeotModelo = peugeot.getModelo();
         int peugeotAno = peugeot.getAno();
 
         System.out.println("--------------------------");
